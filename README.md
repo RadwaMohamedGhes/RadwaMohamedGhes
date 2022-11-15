@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 📫 How to reach me **radwamohamedghes@gmail.com**
+- 📫 How to reach me **radwa.ghes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
