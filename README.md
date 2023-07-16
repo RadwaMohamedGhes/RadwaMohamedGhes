@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently developing my skills in **Data Analysis**
 
 - 📫 How to reach me **radwa.ghes@gmail.com**
 
